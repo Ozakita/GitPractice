@@ -1,0 +1,16 @@
+diff a/Screen.h b/Screen.h	(rejected hunks)
+@@ -0,0 +1,14 @@
++#ifndef _SCREEN_H
++#define _SCREEN_H
++
++//��ʉ𑜓x
++class Screen
++{
++public:
++	static const int Width = 640;  //��
++	static const int Height = 480; //����
++
++};
++#endif
++
++
